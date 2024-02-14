@@ -2,7 +2,7 @@
 	"name" : "5-banana-synth",
 	"version" : 1,
 	"creationdate" : 3790722538,
-	"modificationdate" : 3790722949,
+	"modificationdate" : 3790774680,
 	"viewrect" : [ 50.0, 106.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -21,12 +21,7 @@
 		"media" : 		{
 			"banana.png" : 			{
 				"kind" : "imagefile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/INTERACTIVE SOUND SP24/david-max-spring-2024",
-					"projectrelativepath" : "../../david-max-spring-2024"
-				}
-
+				"local" : 1
 			}
 
 		}
