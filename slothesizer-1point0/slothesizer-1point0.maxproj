@@ -2,7 +2,7 @@
 	"name" : "slothesizer-1point0",
 	"version" : 1,
 	"creationdate" : 3746629680,
-	"modificationdate" : 3790704762,
+	"modificationdate" : 3790773869,
 	"viewrect" : [ 25.0, 81.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -38,6 +38,6 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 0,
+	"viewmode" : 1,
 	"includepackages" : 0
 }
