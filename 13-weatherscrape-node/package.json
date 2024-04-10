@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "openweather-apis": "^4.5.0"
+  }
+}
